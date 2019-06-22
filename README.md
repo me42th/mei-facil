@@ -21,6 +21,9 @@ Publique o teste prático com as respostas em um arquivo readme em um repositór
 
 - Explique qual a diferença entre processamento sincrono e assincrono e qual o melhor cenário para utilizar um ou outro.
 
+STATELESS não mantem o estado apenas processa a função invocada, STATEFULL mantem o estado de cada cliente e usará do mesmo para as próximas respostas.
+STATELESS é massa pra spa e pra mobile apps, STATEFULL atende bem a sistemas web monoliticos
+
 
 #### Teste prático:
 
